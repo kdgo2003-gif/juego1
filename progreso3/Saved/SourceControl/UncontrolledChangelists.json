@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/T-User/OneDrive/Documentos/Unreal Projects/progreso3/Content/nivel/menu.umap",
+				"C:/Users/T-User/OneDrive/Documentos/Unreal Projects/progreso3/Content/nivel/nivel1.umap",
+				"C:/Users/T-User/OneDrive/Documentos/Unreal Projects/progreso3/Content/nivel/font/Zombies_Brainless.uasset",
+				"C:/Users/T-User/OneDrive/Documentos/Unreal Projects/progreso3/Content/nivel/font/Zombies_Brainless_Font.uasset",
+				"C:/Users/T-User/OneDrive/Documentos/Unreal Projects/progreso3/Content/nivel/lvls/menu.umap",
+				"C:/Users/T-User/OneDrive/Documentos/Unreal Projects/progreso3/Content/nivel/lvls/nivel1.umap",
+				"C:/Users/T-User/OneDrive/Documentos/Unreal Projects/progreso3/Content/nivel/mennu.uasset",
+				"C:/Users/T-User/OneDrive/Documentos/Unreal Projects/progreso3/Content/nivel/Gemini_Generated_Image_hak9qlhak9qlhak9.uasset",
+				"C:/Users/T-User/OneDrive/Documentos/Unreal Projects/progreso3/Content/nivel/SUELO.uasset"
+			]
+		}
+	]
+}
